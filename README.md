@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @NewDivide41194
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning data algorithm.
-- 💞️ I’m looking to collaborate on foreign software company.
+- 👋 Hi, I’m Hein Htet
+- 💻 I’m a Full Stack Engineer.
+- 🌱 I’m currently learning NextJS.
+- 🔗 I’m looking to collaborate on remote position.
 - 📫 How to reach me ----> heinhtet25944@gmail.com
-
-<!---
-NewDivide41194/NewDivide41194 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
