@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hein Htet
 - 💻 I’m a Full Stack Engineer.
 - 🌱 I’m currently learning NextJS.
-- 🔗 I’m looking to collaborate on remote position.
+- 🔗 I’m looking to collaborate a remote position.
 - 📫 How to reach me ----> heinhtet25944@gmail.com
